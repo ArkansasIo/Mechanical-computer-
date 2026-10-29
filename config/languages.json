@@ -1,0 +1,14 @@
+{
+  "target_count": 25,
+  "status": "target list only; dictionary and grammar packs are not implemented yet",
+  "languages": [
+    {"name":"English","code":"en"},{"name":"Mandarin Chinese","code":"zh"},{"name":"Spanish","code":"es"},
+    {"name":"Hindi","code":"hi"},{"name":"Arabic","code":"ar"},{"name":"French","code":"fr"},
+    {"name":"Bengali","code":"bn"},{"name":"Portuguese","code":"pt"},{"name":"Russian","code":"ru"},
+    {"name":"Urdu","code":"ur"},{"name":"Indonesian","code":"id"},{"name":"German","code":"de"},
+    {"name":"Japanese","code":"ja"},{"name":"Nigerian Pidgin","code":"pcm"},{"name":"Marathi","code":"mr"},
+    {"name":"Telugu","code":"te"},{"name":"Turkish","code":"tr"},{"name":"Tamil","code":"ta"},
+    {"name":"Cantonese","code":"yue"},{"name":"Vietnamese","code":"vi"},{"name":"Korean","code":"ko"},
+    {"name":"Italian","code":"it"},{"name":"Persian","code":"fa"},{"name":"Swahili","code":"sw"},{"name":"Thai","code":"th"}
+  ]
+}
